@@ -6,7 +6,7 @@
 
 >[PyCharm](https://www.jetbrains.com/pycharm/) is an integrated development environment (IDE) used in computer programming, specifically for the Python language. It is developed by the Czech company JetBrains. It provides code analysis, a graphical debugger, an integrated unit tester, integration with version control systems (VCSes), and supports web development with Django as well as Data Science with Anaconda.
 
-### PuCharm Learning Resources
+### PyCharm Learning Resources
 1. [42 PyCharm Tips and Tricks](https://www.youtube.com/watch?v=NoDx0MEESDw&list=PLQ176FUIyIUbDwdvWZNuB7FrCc6hHregy&index=2)
 2. [Effective Data Science with PyCharm](https://www.youtube.com/watch?v=46RjXawJQgg&list=PLQ176FUIyIUbDwdvWZNuB7FrCc6hHregy&index=3)
 3. [Build-a-GitHub-Bot](https://www.youtube.com/watch?v=Bs_mqDHvCUs&list=PLQ176FUIyIUbDwdvWZNuB7FrCc6hHregy&index=4)
