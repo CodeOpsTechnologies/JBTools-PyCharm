@@ -1,6 +1,6 @@
 # PyCharm
-[![Generic Badge](https://img.shields.io/badge/JetBrains_Tools-critical.svg)](https://www.jetbrains.com)
-[![Generic Badge](https://img.shields.io/badge/CodeOps.Tech-critical.svg)](https://codeops.tech)
+[![Generic Badge](https://img.shields.io/badge/JetBrains_Tools-royalblue.svg)](https://www.jetbrains.com)
+[![Generic Badge](https://img.shields.io/badge/CodeOps.Tech-royalblue.svg)](https://codeops.tech)
 
 ### About the Tool 💻
 
@@ -40,6 +40,6 @@
 31. [Django with PyCharm Tips and Tricks](https://www.youtube.com/watch?v=RFM6w8MeICI&list=PLQ176FUIyIUbDwdvWZNuB7FrCc6hHregy&index=71)
 32. [How to Build Real Time Interactions in Your Django 3 App](https://www.youtube.com/watch?v=3gHmfoeZ45k&list=PLQ176FUIyIUbDwdvWZNuB7FrCc6hHregy&index=73)
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=facebook&style=flat&logoColor=white&colorA=critical)](https://www.facebook.com/CodeOpsTech)
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=critical)](https://www.linkedin.com/company/codeops-technologies/)
-[![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/CodeOpsTech)
+[![Facebook](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=facebook&style=flat&logoColor=white&colorA=royalblue)](https://www.facebook.com/CodeOpsTech)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=royalblue)](https://www.linkedin.com/company/codeops-technologies/)
+[![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@CodeOpsTech&color=grey&logo=twitter&style=flat&logoColor=white&colorA=royalblue)](https://twitter.com/CodeOpsTech)
